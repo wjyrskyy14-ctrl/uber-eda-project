@@ -58,3 +58,9 @@
   This project demonstrates practical EDA skills including data cleaning, visualization, and insight generation to support data-driven decision making in ride-hailing services.
 
 # ✨ This project is part of my learning journey in Data Science and Data Analysis.
+
+## 📞 Kontak
+Jika ingin diskusi seputar Data Science atau belajar bareng, bisa hubungi aku lewat GitHub atau DM 🙂
+- 📷 Instagram: @raskywjy
+- 💼 LinkedIn: https://www.linkedin.com/in/rasky-wijaya-6235b1398/
+
