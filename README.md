@@ -60,7 +60,7 @@
 # ✨ This project is part of my learning journey in Data Science and Data Analysis.
 
 ## 📞 Kontak
-Jika ingin diskusi seputar Data Science atau belajar bareng, bisa hubungi aku lewat GitHub atau DM 🙂
+If you want to discuss Data Science or learn together, you can contact me via GitHub or DM. 🙂
 - 📷 Instagram: @raskywjy
 - 💼 LinkedIn: https://www.linkedin.com/in/rasky-wijaya-6235b1398/
 
